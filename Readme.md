@@ -2,8 +2,8 @@
 ## TODO's:
 ### Step 1:
 
-- [ ] Change fonts to cursive
-- [ ] Shuffle the words around
+- [x] Change fonts to cursive
+- [x] Shuffle the words around
 - [ ] Fix Draggable functionality: it should be draggable on top of a word
 - [ ] When dragged on top of a word the word should be turned green and the image should disappear
 

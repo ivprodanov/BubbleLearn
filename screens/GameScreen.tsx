@@ -8,6 +8,22 @@ import { PuzzleItem } from "../types/types";
 
 import backgroundImage from "../assets/paper-background.jpg";
 export default function GameScreen() {
+
+  const shuffleFunc = (arr) => {
+    // let random = Math.floor(Math.random() * 3)
+    console.log(arr);
+    for (var i = arr.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = arr[i].word;
+        arr[i].word = arr[j].word;
+        arr[j].word = temp;
+    }
+    console.log('here', arr);
+    return [...arr]
+  }
+
+  shuffleFunc(puzzles);
+
   return (
     <ImageBackground source={backgroundImage} style={styles.background}>
       <View style={styles.container}>
