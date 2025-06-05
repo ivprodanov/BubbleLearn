@@ -15,3 +15,13 @@
 ### Step 3:
 - [ ] Adding own words and images through an interface!
 
+
+### step 4
+- [ ] Adlandain, Nilveria, Staloria
+- [ ] benoit        Alu         Sic
+- [ ] 2 with 1 and then 3 without hunger
+- [ ] 1 light wie Wind, 2 stark wie Metalurgia, 3 Fr43den
+- [ ] T3LAS () -> (   )
+- [ ] LIOn -> tw0
+- [ ] Threfold threshold.
+-----------------------------------------------------------
